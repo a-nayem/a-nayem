@@ -26,9 +26,9 @@ $ who_am_i
 ```
   user      →  Alif Nayem
 
-  role      →  Founder @ Spectre Flow  ·  CS Undergrad (Year 2)
+  role      →  Founder @ Spectre Flow  ·  CS Undergrad Y2
 
-  domain    →  Cybersecurity  ·  AI Infrastructure  ·  Automation
+  domain    →  Cybersecurity  ·  AI Infrastructure  · AI Automation
 
   mindset   →  Security is the obsession. AI is the shift I adapt and deploy.
 
