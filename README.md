@@ -13,7 +13,7 @@
            ╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%2F%2F+AI+Infrastructure+%2F%2F+Automation+Engineering;Founder+%40+Spectre+Flow+%7C+CS+Undergrad+Year+2;Security+is+the+obsession.+Automation+is+the+weapon.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%2F%2F+AI+Infrastructure+%2F%2F+Autonomous+Systems;Founder+%40+Spectre+Flow+%7C+CS+Undergrad+Year+2;I+don't+just+build+tools+—+I+build+systems+that+think+for+themselves.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,64 +24,34 @@ $ who_am_i
 ```
 
 ```
-  user      →  Alif Nayem
+  user      →  Alif Nayem  //  A. Nayem
 
-  role      →  Founder @ Spectre Flow  ·  CS Undergrad Y2
+  role      →  AI Systems Architect  ·  Cybersecurity Engineer  ·  Founder @ Spectre Flow
 
-  domain    →  Cybersecurity  ·  AI Infrastructure  · AI Automation
+  domain    →  Autonomous AI  ·  Offensive Security  ·  Multi-Agent Systems
 
-  mindset   →  Security is the obsession. AI is the shift I adapt and deploy.
+  stack     →  Python  ·  TypeScript  ·  FastAPI  ·  Docker  ·  Kali Linux
 
-  building  →  Systems that run themselves — no handler required.
+  focus     →  Systems that operate without a handler — precision, zero cloud dependency,
+               full data ownership.
 
-  open_to   →  Clients, collabs, conversations → spectreflow.ai
+  based     →  Dhaka, Bangladesh  ·  Building globally
 ```
 
 ---
 
 ```bash
-$ ls ./spectre_flow
+$ ls ./projects
 ```
 
-> Autonomous client acquisition infrastructure — lead scoring, booking, routing, and response. Fully self-operated.
-
-| Module | Stack | State |
-|:-------|:------|:-----:|
-| Lead Intelligence Engine | n8n · Gemini · NocoDB | `LIVE` |
-| 24/7 AI Booking Agent | n8n · Google Calendar · Gmail | `LIVE` |
-| RAG Knowledge Bot | n8n · Pinecone · Gemini | `LIVE` |
-| Document Intelligence Manager | n8n · Gemini · WhatsApp | `LIVE` |
-| LinkedIn Scraping & Enrichment | n8n · Apollo.io · Google Sheets | `LIVE` |
-| AI Meeting Intelligence Agent | n8n · OpenAI · Google Calendar | `LIVE` |
-| LLM Chaining Engine | n8n · Anthropic · Webhook | `LIVE` |
-| AI Notification & Routing Hub | n8n · Gemini · Twilio · Discord | `LIVE` |
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
-[![Book a Call](https://img.shields.io/badge/Book_Free_Call-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=00C8FF)](https://cal.com/ayanokouji-j98vjt)
-
-</div>
-
----
-
-```bash
-$ ls ./workflow_library
-```
-
-> Production-grade n8n workflows. Battle-tested. Clone and deploy.
-
-| # | Workflow | What It Does |
-|---|----------|--------------|
-| 01 | [Lead Intelligence Engine](https://github.com/Darkus39/lead-intelligence-engine) | AI-powered lead scoring, qualification & CRM routing |
-| 02 | [AI Booking Agent](https://github.com/Darkus39/AI-booking-agent) | Fully autonomous scheduling via natural language |
-| 03 | [AI Notification Hub](https://github.com/Darkus39/AI-notification-hub) | Lead routing, AI summaries, multi-channel alerts |
-| 04 | [Document Intelligence Manager](https://github.com/Darkus39/Document-intelligence-manager) | Doc parsing, calendar events, Slack/WhatsApp alerts |
-| 05 | [RAG Knowledge Bot](https://github.com/Darkus39/Rag-knowledge-bot) | Context-aware Q&A over custom knowledge base |
-| 06 | [LinkedIn Scraping & Enrichment](https://github.com/Darkus39/spectre-flow-workflows) | Scrape → Apollo.io enrichment → AI summarization |
-| 07 | [AI Meeting Intelligence Agent](https://github.com/Darkus39/spectre-flow-workflows) | Transcripts → action items → automated follow-ups |
-| 08 | [Facebook Comment Monitor](https://github.com/Darkus39/spectre-flow-workflows) | Pull, filter & structure post comment data |
-| 09 | [LLM Chaining Engine](https://github.com/Darkus39/spectre-flow-workflows) | Sequential & parallel AI chains with persistent memory |
+| # | Project | What It Is | Stack |
+|---|---------|-----------|-------|
+| 001 | [Portfolio](https://alifnayem.vercel.app) | HUD-aesthetic personal site — WebGL canvas, Zustand telemetry, RAF scroll physics | TanStack Start · TS · WebGL |
+| 002 | [Spectre Flow](https://spectre-flow.vercel.app) | Agency site with OrbitalMesh hero — Canvas 2D perspective projection, orbital card layout | Next.js · Canvas 2D · Tailwind |
+| 003 | [Spectre Vault](https://spectre-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
+| 004 | [Spectre CRM](https://sample-crm-nine.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
+| 005 | [MindForge](https://github.com/Darkus39/Mind-Forge) | Fully offline Android quiz app — 6 domains, 400 questions each, XP system, 30-min daily lock | Cordova · Android · JS |
+| 006 | [Second Brain](https://second-brain-darkus39.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
 
 ---
 
@@ -97,6 +67,8 @@ $ cat ./stack.conf
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 **[ AI & Automation ]**
 
@@ -106,24 +78,51 @@ $ cat ./stack.conf
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 **[ Development ]**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **[ Data & Databases ]**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![NocoDB](https://img.shields.io/badge/NocoDB-02C083?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+**[ Offensive Security ]**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat-square&logoColor=white)
 
 </div>
+
+---
+
+```bash
+$ ls ./tools
+```
+
+```
+  recon       →  Nmap · Shodan · Maltego · Nikto · Gobuster · Netcat
+  exploit     →  Metasploit · Burp Suite · sqlmap · Hydra · John the Ripper
+  wireless    →  Aircrack-ng · Wifite · Reaver · Hashcat
+  ai_stack    →  Ollama · Anthropic API · Gemini API · OpenAI API · LangChain · Pinecone
+  automation  →  n8n · Gmail API · Google Calendar · Twilio · Discord · Apollo.io
+  dev_env     →  VS Code · Claude · Claude Code · Docker Desktop · Git · Postman
+```
 
 ---
 
@@ -166,23 +165,23 @@ $ ./connect.sh
 ```
 
 ```
-  If you're building something that needs to operate without you —
-  that's the work. Get in touch.
+  If you're building something that needs to run without you —
+  that's exactly what I build. Get in touch.
 ```
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-alifnayem.vercel.app-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://alifnayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-spectreflow)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.nayem_)
-[![Spectre Flow](https://img.shields.io/badge/spectreflow.ai-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
-[![Book a Call](https://img.shields.io/badge/Book_Free_Call-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=00C8FF)](https://cal.com/ayanokouji-j98vjt)
+[![Spectre Flow](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Darkus39&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)
 
 ```
-Security first. Automation always.  //  Spectre Flow
+Security first. Automation always.  //  A. Nayem
 ```
 
 </div>
