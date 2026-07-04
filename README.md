@@ -47,7 +47,7 @@ $ ls ./projects
 | # | Project | What It Is | Stack |
 |---|---------|-----------|-------|
 | 001 | [Portfolio](https://alifnayem.vercel.app) | HUD-aesthetic personal site — WebGL canvas, Zustand telemetry, RAF scroll physics | TanStack Start · TS · WebGL |
-| 002 | [Spectre Flow](https://spectre-flow.vercel.app) | Agency site with OrbitalMesh hero — Canvas 2D perspective projection, orbital card layout | Next.js · Canvas 2D · Tailwind |
+| 002 | [Trisien Automence](https://trisien-automence.vercel.app) | Agency site with OrbitalMesh hero — Canvas 2D perspective projection, orbital card layout | Next.js · Canvas 2D · Tailwind |
 | 003 | [Spectre Vault](https://spectre-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
 | 004 | [Spectre CRM](https://sample-crm-nine.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
 | 005 | [MindForge](https://github.com/Darkus39/Mind-Forge) | Fully offline Android quiz app — 6 domains, 400 questions each, XP system, 30-min daily lock | Cordova · Android · JS |
@@ -148,7 +148,7 @@ $ git log --author=a-nayem --stat
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/a-nayem)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=a-nayem&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/a-nayem)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
 
@@ -174,11 +174,11 @@ $ ./connect.sh
 [![Portfolio](https://img.shields.io/badge/Portfolio-alifnayem.vercel.app-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://alifnayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-trisienautomence)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.nayem_)
-[![Trisien Automence](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://trisien-automence.vercel.app)
+[![Trisien Automence](https://img.shields.io/badge/Trisien Automence-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://trisien-automence.vercel.app)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Darkus39&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=a-nayem&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)
 
 ```
 Security first. Automation always.  //  A. Nayem
