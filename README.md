@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Darkus39/Darkus39/main/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/banner.svg" width="100%"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
            ╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%2F%2F+AI+Infrastructure+%2F%2F+Autonomous+Systems;Founder+%40+Spectre+Flow+%7C+CS+Undergrad+Year+2;I+don't+just+build+tools+—+I+build+systems+that+think+for+themselves.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%2F%2F+AI+Infrastructure+%2F%2F+Autonomous+Systems;Founder+%40+Trisien+Automence+%7C+CS+Undergrad+Year+2;I+don't+just+build+tools+—+I+build+systems+that+think+for+themselves.)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ $ who_am_i
 ```
   user      →  Alif Nayem  //  A. Nayem
 
-  role      →  AI Systems Architect  ·  Cybersecurity Engineer  ·  Founder @ Spectre Flow
+  role      →  AI Systems Architect  ·  Cybersecurity Engineer  ·  Founder @ Trisien Automence
 
   domain    →  Autonomous AI  ·  Offensive Security  ·  Multi-Agent Systems
 
@@ -48,8 +48,8 @@ $ ls ./projects
 |---|---------|-----------|-------|
 | 001 | [Portfolio](https://alifnayem.vercel.app) | HUD-aesthetic personal site — WebGL canvas, Zustand telemetry, RAF scroll physics | TanStack Start · TS · WebGL |
 | 002 | [Trisien Automence](https://trisien-automence.vercel.app) | Agency site with OrbitalMesh hero — Canvas 2D perspective projection, orbital card layout | Next.js · Canvas 2D · Tailwind |
-| 003 | [Spectre Vault](https://spectre-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
-| 004 | [Spectre CRM](https://sample-crm-nine.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
+| 003 | [Trisien Vault](https://spectre-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
+| 004 | [Trisien CRM](https://sample-crm-nine.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
 | 005 | [MindForge](https://github.com/Darkus39/Mind-Forge) | Fully offline Android quiz app — 6 domains, 400 questions each, XP system, 30-min daily lock | Cordova · Android · JS |
 | 006 | [Second Brain](https://second-brain-darkus39.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
 
@@ -152,9 +152,9 @@ $ git log --author=a-nayem --stat
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darkus39&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/Darkus39)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-nayem&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=aab8d0&bg_color=050810)](https://github.com/a-nayem)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darkus39&theme=react-dark&hide_border=true&color=00C8FF&line=00C8FF&point=00C8FF&area=true&area_color=00C8FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&theme=react-dark&hide_border=true&color=00C8FF&line=00C8FF&point=00C8FF&area=true&area_color=00C8FF)
 
 </div>
 
@@ -174,7 +174,7 @@ $ ./connect.sh
 [![Portfolio](https://img.shields.io/badge/Portfolio-alifnayem.vercel.app-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://alifnayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-trisienautomence)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.nayem_)
-[![Trisien Automence](https://img.shields.io/badge/Trisien Automence-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://trisien-automence.vercel.app)
+[![Trisien Automence](https://img.shields.io/badge/Trisien_Automence-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://trisien-automence.vercel.app)
 
 <br/>
 
