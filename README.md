@@ -143,12 +143,12 @@ $ htop --skills
 ---
 
 ```bash
-$ git log --author=Darkus39 --stat
+$ git log --author=a-nayem --stat
 ```
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/Darkus39)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Darkus39&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=aab8d0&bg_color=050810&rank_icon=github)](https://github.com/a-nayem)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
 
@@ -172,9 +172,9 @@ $ ./connect.sh
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alifnayem.vercel.app-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://alifnayem.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-spectreflow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifnayem-trisienautomence)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.nayem_)
-[![Spectre Flow](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://spectre-flow.vercel.app)
+[![Trisien Automence](https://img.shields.io/badge/Spectre_Flow-00C8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://trisien-automence.vercel.app)
 
 <br/>
 
