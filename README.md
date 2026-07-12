@@ -48,10 +48,10 @@ $ ls ./projects
 |---|---------|-----------|-------|
 | 001 | [Portfolio](https://alifnayem.vercel.app) | HUD-aesthetic personal site — WebGL canvas, Zustand telemetry, RAF scroll physics | TanStack Start · TS · WebGL |
 | 002 | [Trisien Automence](https://trisien-automence.vercel.app) | Agency site with OrbitalMesh hero — Canvas 2D perspective projection, orbital card layout | Next.js · Canvas 2D · Tailwind |
-| 003 | [Trisien Vault](https://spectre-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
-| 004 | [Trisien CRM](https://sample-crm-nine.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
+| 003 | [Trisien Vault](https://trisien-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
+| 004 | [Trisien CRM](https://trisien-crm.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
 | 005 | [MindForge](https://github.com/Darkus39/Mind-Forge) | Fully offline Android quiz app — 6 domains, 400 questions each, XP system, 30-min daily lock | Cordova · Android · JS |
-| 006 | [Second Brain](https://second-brain-darkus39.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
+| 006 | [MultiAgent](https://second-brain-darkus39.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
 
 ---
 
