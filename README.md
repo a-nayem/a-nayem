@@ -51,7 +51,7 @@ $ ls ./projects
 | 003 | [Trisien Vault](https://trisien-vault.vercel.app) | 4-agent second brain — Analyst, Negotiator, Researcher, Communicator — self-hosted Deepseek-R1, Qdrant vector memory, 342-node 3D knowledge graph | HTML · JS · Qdrant · Canvas 3D |
 | 004 | [Trisien CRM](https://trisien-crm.vercel.app) | Self-hosted agentic CRM — 4-stage Kanban, AI lead scoring, real-time Supabase sync <500ms, multi-market (CA/DE/AU/NL) | Next.js · Supabase · PostgreSQL |
 | 005 | [MindForge](https://github.com/Darkus39/Mind-Forge) | Fully offline Android quiz app — 6 domains, 400 questions each, XP system, 30-min daily lock | Cordova · Android · JS |
-| 006 | [MultiAgent](https://second-brain-darkus39.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
+| 006 | [MultiAgent](https://multi-agent-daily.vercel.app) | 5-agent knowledge system — Researcher, Summarizer, Connector, Daily Digest, Custom — Gemini 2.5 Flash, zero server | Next.js · Gemini API · Zustand |
 
 ---
 
