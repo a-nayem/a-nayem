@@ -24,7 +24,7 @@ $ who_am_i
 ```
 
 ```
-  user      →  Alif Nayem  //  A. Nayem
+  user      →  A. Nayem
 
   role      →  AI Systems Architect  ·  Cybersecurity Engineer  ·  Founder @ Trisien Automence
 
