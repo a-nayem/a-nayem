@@ -293,7 +293,7 @@
   </circle>
 
   <!-- BOTTOM LABEL -->
-  <text x="450" y="308" text-anchor="middle" fill="#00C8FF" font-family="monospace" font-size="10" opacity="0.4" letter-spacing="4">SPECTRE FLOW // AI INFRASTRUCTURE</text>
+  <text x="450" y="308" text-anchor="middle" fill="#00C8FF" font-family="monospace" font-size="10" opacity="0.4" letter-spacing="4">TRISIEN AUTOMENCE // AI INFRASTRUCTURE</text>
 
   <!-- Corner decorations -->
   <path d="M20,20 L50,20 L50,22 L22,22 L22,50 L20,50 Z" fill="#00C8FF" opacity="0.3"/>
