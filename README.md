@@ -117,10 +117,15 @@ $ ls ./tools
 
 ```
   recon       →  Nmap · Shodan · Maltego · Nikto · Gobuster · Netcat
+  
   exploit     →  Metasploit · Burp Suite · sqlmap · Hydra · John the Ripper
+  
   wireless    →  Aircrack-ng · Wifite · Reaver · Hashcat
+  
   ai_stack    →  Ollama · Anthropic API · Gemini API · OpenAI API · LangChain · Pinecone
+  
   automation  →  n8n · Gmail API · Google Calendar · Twilio · Discord · Apollo.io
+  
   dev_env     →  VS Code · Claude · Claude Code · Docker Desktop · Git · Postman
 ```
 
