@@ -1,0 +1,46 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #050810; }
+      .border { fill: none; stroke: #0A1420; stroke-width: 2; }
+      .title { font-family: 'JetBrains Mono', monospace; font-size: 16px; fill: #00C8FF; font-weight: 700; }
+      .stat-num { font-family: 'JetBrains Mono', monospace; font-size: 34px; fill: #00C8FF; font-weight: 700; }
+      .stat-label { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #AAB8D0; }
+      .divider { stroke: #1A2438; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="220" rx="8"/>
+  <rect class="border" x="1" y="1" width="898" height="218" rx="8"/>
+
+  <text x="30" y="38" class="title">$ ./stats.sh --static --user a-nayem</text>
+  <line class="divider" x1="30" y1="52" x2="870" y2="52"/>
+
+  <!-- Public Repos -->
+  <text x="60" y="120" class="stat-num" text-anchor="middle">18</text>
+  <text x="60" y="145" class="stat-label" text-anchor="middle">PUBLIC</text>
+  <text x="60" y="160" class="stat-label" text-anchor="middle">REPOS</text>
+
+  <line class="divider" x1="180" y1="70" x2="180" y2="190"/>
+
+  <!-- Followers -->
+  <text x="300" y="120" class="stat-num" text-anchor="middle">4</text>
+  <text x="300" y="145" class="stat-label" text-anchor="middle">FOLLOWERS</text>
+
+  <line class="divider" x1="420" y1="70" x2="420" y2="190"/>
+
+  <!-- Member since -->
+  <text x="540" y="120" class="stat-num" text-anchor="middle">2024</text>
+  <text x="540" y="145" class="stat-label" text-anchor="middle">MEMBER</text>
+  <text x="540" y="160" class="stat-label" text-anchor="middle">SINCE</text>
+
+  <line class="divider" x1="660" y1="70" x2="660" y2="190"/>
+
+  <!-- Primary stack -->
+  <text x="765" y="105" class="stat-label" text-anchor="middle">PRIMARY STACK</text>
+  <text x="765" y="130" class="stat-label" text-anchor="middle" style="fill:#00C8FF; font-size:13px;">TypeScript</text>
+  <text x="765" y="150" class="stat-label" text-anchor="middle" style="fill:#00C8FF; font-size:13px;">Python</text>
+  <text x="765" y="170" class="stat-label" text-anchor="middle" style="fill:#00C8FF; font-size:13px;">Next.js</text>
+
+  <text x="30" y="205" class="stat-label" style="font-size:10px;">generated once from api.github.com · static, not live</text>
+</svg>
