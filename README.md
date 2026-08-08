@@ -209,6 +209,15 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 ## `$ ./activity.sh --graph`
 
+<!--
+  NOTE: github-readme-activity-graph.vercel.app is a shared, unauthenticated
+  free-tier instance and periodically rate-limits or 500s under load. This is
+  a third-party uptime issue, not a config issue on your end. If it keeps
+  breaking, self-host the fork (Ashutosh00710/github-readme-activity-graph)
+  on your own Vercel project with a GH_TOKEN env var — five-minute deploy,
+  removes the shared-instance throttling entirely.
+-->
+
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&bg_color=050810&color=00C8FF&line=00C8FF&point=AAB8D0&area=true&area_color=00C8FF&hide_border=true&custom_title=Commit%20Activity)
@@ -230,6 +239,14 @@ OPEN_TO   Freelance contracts + Full-time roles
 </div>
 
 ## `$ ./contribution_snake.sh --run`
+
+<!--
+  REQUIRES: .github/workflows/snake.yml in this repo (a-nayem/a-nayem),
+  which generates the "output" branch this SVG is pulled from. Without that
+  workflow having run at least once, this image is a permanent 404. See
+  snake.yml provided alongside this README — commit it, run it once manually
+  via Actions > workflow_dispatch, confirm the "output" branch appears.
+-->
 
 <div align="center">
 
