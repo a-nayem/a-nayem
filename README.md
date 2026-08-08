@@ -19,6 +19,12 @@
 
 </div>
 
+<div align="center">
+
+![Dashboard Banner](https://raw.githubusercontent.com/a-nayem/a-nayem/main/banner.svg)
+
+</div>
+
 ## `$ cat about.md`
 
 AI systems architect and cybersecurity engineer directing prompt-engineered builds from architecture through production deployment. Founder of **Trisien Automence**, designing self-hosted, multi-agent infrastructure for clients across four countries with zero recurring SaaS cost and full data ownership. Extending core engineering into applied security as an active, self-directed specialization.
