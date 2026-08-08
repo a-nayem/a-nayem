@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: a-nayem
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00C8FF&color_dots=#0A1420,#073B4C,#0B6E4F,#06D6A0,#00C8FF
-            dist/github-contribution-grid-snake.svg?color_snake=#00C8FF&color_dots=#0A1420,#073B4C,#0B6E4F,#06D6A0,#00C8FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF0000&color_dots=#1a0505,#4d0f0f,#8c1c1c,#c22a2a,#FF3333
+            dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
