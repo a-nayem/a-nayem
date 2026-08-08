@@ -2,8 +2,8 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # regenerate every 6h so the animation stays current
+  workflow_dispatch:         # lets you trigger it manually the first time
   push:
     branches: [main]
 
@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: a-nayem
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00C8FF&color_dots=0A1420,073B4C,0B6E4F,06D6A0,00C8FF
+            dist/github-contribution-grid-snake.svg?color_snake=00C8FF&color_dots=0A1420,073B4C,0B6E4F,06D6A0,00C8FF
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
