@@ -86,7 +86,7 @@
   <!-- LEFT SCREEN CONTENT: AI BRAIN -->
   <g clip-path="url(#leftScreen)">
     <!-- Screen label -->
-    <text x="235" y="75" text-anchor="middle" fill="#FF1414" font-family="monospace" font-size="9" opacity="0.6">NEURAL NETWORK VISUALIZATION</text>
+    <text x="235" y="75" text-anchor="middle" fill="#FF1414" font-family="monospace" font-size="9" opacity="0.6" font-weight="700">NEURAL NETWORK VISUALIZATION</text>
 
     <!-- Brain outline - stylized -->
     <g transform="translate(235, 152)" filter="url(#brainGlow)">
@@ -195,7 +195,7 @@
   <!-- RIGHT SCREEN CONTENT: KNOWLEDGE GRAPH -->
   <g clip-path="url(#rightScreen)">
     <!-- Screen label -->
-    <text x="665" y="75" text-anchor="middle" fill="#B30F0F" font-family="monospace" font-size="9" opacity="0.6">KNOWLEDGE GRAPH — LIVE</text>
+    <text x="665" y="75" text-anchor="middle" fill="#B30F0F" font-family="monospace" font-size="9" opacity="0.6" font-weight="700">KNOWLEDGE GRAPH — LIVE</text>
 
     <!-- Rotating knowledge graph -->
     <g transform="translate(665, 152)">
@@ -283,7 +283,7 @@
     </g>
 
     <!-- Graph labels -->
-    <text x="502" y="238" fill="#B30F0F" font-family="monospace" font-size="7" opacity="0.5">NODES: 847  |  EDGES: 2,341  |  CLUSTERS: 12</text>
+    <text x="502" y="238" fill="#B30F0F" font-family="monospace" font-size="7" opacity="0.5" font-weight="700">NODES: 847  |  EDGES: 2,341  |  CLUSTERS: 12</text>
   </g>
 
   <!-- CENTER CONNECTOR / CABLE -->
@@ -293,7 +293,7 @@
   </circle>
 
   <!-- BOTTOM LABEL -->
-  <text x="450" y="308" text-anchor="middle" fill="#FF1414" font-family="monospace" font-size="10" opacity="0.4" letter-spacing="4">A.NAYEM // AI SYSTEMS ARCHITECT</text>
+  <text x="450" y="308" text-anchor="middle" fill="#FF1414" font-family="monospace" font-size="10" opacity="0.4" letter-spacing="4" font-weight="700">A.NAYEM // AI SYSTEMS ARCHITECT</text>
 
   <!-- Corner decorations -->
   <path d="M20,20 L50,20 L50,22 L22,22 L22,50 L20,50 Z" fill="#FF1414" opacity="0.3"/>
