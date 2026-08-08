@@ -1,21 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:050810,100:0A1420&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=00C8FF&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=AAB8D0&fontFamily=JetBrains%20Mono)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:050101,100:1a0505&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=FF1414&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=C9A0A0&fontFamily=JetBrains%20Mono)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C8FF&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+Architect+%2F%2F+Cybersecurity+Engineer;Founder+%40+Trisien+Automence;Multi-Agent+Orchestration+%2F%2F+Applied+Offensive+Security;Currently+shipping+ELUSIVE+v2;I+build+systems+that+think+for+themselves.)](https://github.com/a-nayem)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF1414&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+Architect+%2F%2F+Cybersecurity+Engineer;Founder+%40+Trisien+Automence;Multi-Agent+Orchestration+%2F%2F+Applied+Offensive+Security;Currently+shipping+ELUSIVE+v2;I+build+systems+that+think+for+themselves.)](https://github.com/a-nayem)
 
-![Degree](https://img.shields.io/badge/B.Sc._CSE-BRAC_University-050810?style=flat-square&labelColor=050810&color=00C8FF)
-![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050810?style=flat-square&labelColor=050810&color=00C8FF)
-![Status](https://img.shields.io/badge/Status-Building-050810?style=flat-square&labelColor=050810&color=00C8FF)
+![Degree](https://img.shields.io/badge/B.Sc._CSE-BRAC_University-050101?style=flat-square&labelColor=050101&color=FF1414)
+![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=FF1414)
+![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=FF1414)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C8FF?style=for-the-badge&logo=vercel&logoColor=050810&labelColor=050810)](https://alifnayem.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C8FF?style=for-the-badge&logo=linkedin&logoColor=050810&labelColor=050810)](https://linkedin.com/in/alifnayem-trisienautomence)
-[![Email](https://img.shields.io/badge/EMAIL-00C8FF?style=for-the-badge&logo=gmail&logoColor=050810&labelColor=050810)](mailto:alifnayem39@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-00C8FF?style=for-the-badge&logo=github&logoColor=050810&labelColor=050810)](https://github.com/a-nayem)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF1414?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
+[![Email](https://img.shields.io/badge/EMAIL-FF1414?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=for-the-badge&logo=github&logoColor=050101&labelColor=050101)](https://github.com/a-nayem)
 
-![Profile Views](https://komarev.com/ghpvc/?username=a-nayem&color=00C8FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=00C8FF&labelColor=050810&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/a-nayem?style=flat-square&color=00C8FF&labelColor=050810&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=a-nayem&color=FF1414&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=FF1414&labelColor=050101&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/a-nayem?style=flat-square&color=FF1414&labelColor=050101&label=STARS)
 
 </div>
 
@@ -54,14 +54,14 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-![](https://img.shields.io/badge/-Multi--Agent_Orchestration-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-Provider--Agnostic_LLM_Integration-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-RAG_%26_Vector_Search-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-Self--Hosted_Infrastructure-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-Penetration_Testing-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-Network_%26_Credential_Attacks-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-n8n_Automation-050810?style=flat-square&color=00C8FF)
-![](https://img.shields.io/badge/-Zero_Cloud_Dependency-050810?style=flat-square&color=00C8FF)
+![](https://img.shields.io/badge/-Multi--Agent_Orchestration-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-Provider--Agnostic_LLM_Integration-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-RAG_%26_Vector_Search-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-Self--Hosted_Infrastructure-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-Penetration_Testing-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-Network_%26_Credential_Attacks-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-n8n_Automation-050101?style=flat-square&color=FF1414)
+![](https://img.shields.io/badge/-Zero_Cloud_Dependency-050101?style=flat-square&color=FF1414)
 
 </div>
 
@@ -190,7 +190,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/BRAC_UNIVERSITY-B.Sc._Computer_Science_%26_Engineering_%7C_2024--Present-00C8FF?style=for-the-badge&logo=googlescholar&logoColor=050810&labelColor=050810)](https://www.bracu.ac.bd/)
+[![Education](https://img.shields.io/badge/BRAC_UNIVERSITY-B.Sc._Computer_Science_%26_Engineering_%7C_2024--Present-FF1414?style=for-the-badge&logo=googlescholar&logoColor=050101&labelColor=050101)](https://www.bracu.ac.bd/)
 
 </div>
 
@@ -209,7 +209,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=a-nayem&hide_border=true&background=050810&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=AAB8D0&currStreakNum=AAB8D0&sideNums=AAB8D0&dates=AAB8D0" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=a-nayem&hide_border=true&background=050101&ring=FF1414&fire=FF1414&currStreakLabel=FF1414&sideLabels=C9A0A0&currStreakNum=C9A0A0&sideNums=C9A0A0&dates=C9A0A0" width="48%" />
 
 <img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/stats-static.svg" width="100%" />
 
@@ -236,7 +236,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&bg_color=050810&color=00C8FF&line=00C8FF&point=AAB8D0&area=true&area_color=00C8FF&hide_border=true&custom_title=Commit%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&bg_color=050101&color=FF1414&line=FF1414&point=C9A0A0&area=true&area_color=FF1414&hide_border=true&custom_title=Commit%20Activity)
 
 </div>
 
@@ -276,15 +276,15 @@ open_to:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C8FF?style=for-the-badge&logo=vercel&logoColor=050810&labelColor=050810)](https://alifnayem.vercel.app)
-[![Trisien Automence](https://img.shields.io/badge/TRISIEN_AUTOMENCE-00C8FF?style=for-the-badge&logo=vercel&logoColor=050810&labelColor=050810)](https://trisien-automence.vercel.app)
-[![Book a Call](https://img.shields.io/badge/BOOK_A_CALL-00C8FF?style=for-the-badge&logo=googlecalendar&logoColor=050810&labelColor=050810)](https://cal.com/alifnayem-j98vjt)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00C8FF?style=for-the-badge&logo=linkedin&logoColor=050810&labelColor=050810)](https://linkedin.com/in/alifnayem-trisienautomence)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-00C8FF?style=for-the-badge&logo=instagram&logoColor=050810&labelColor=050810)](https://instagram.com/_a.nayem_)
-[![Email](https://img.shields.io/badge/EMAIL-00C8FF?style=for-the-badge&logo=gmail&logoColor=050810&labelColor=050810)](mailto:alifnayem39@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![Trisien Automence](https://img.shields.io/badge/TRISIEN_AUTOMENCE-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://trisien-automence.vercel.app)
+[![Book a Call](https://img.shields.io/badge/BOOK_A_CALL-FF1414?style=for-the-badge&logo=googlecalendar&logoColor=050101&labelColor=050101)](https://cal.com/alifnayem-j98vjt)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF1414?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF1414?style=for-the-badge&logo=instagram&logoColor=050101&labelColor=050101)](https://instagram.com/_a.nayem_)
+[![Email](https://img.shields.io/badge/EMAIL-FF1414?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
 
 *"I don't just build tools, I build systems that think for themselves."*
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050810,100:0A1420&height=150&section=footer&text=Security%20first.%20Automation%20always.&fontColor=00C8FF&fontSize=16&fontAlignY=75&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050101,100:1a0505&height=150&section=footer&text=Security%20first.%20Automation%20always.&fontColor=FF1414&fontSize=16&fontAlignY=75&animation=twinkling)
