@@ -190,12 +190,22 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 ## `$ ./analytics.sh --github`
 
+<!--
+  Stats + top-langs previously used github-readme-stats.vercel.app, whose
+  shared public instance has an open, unresolved outage (503
+  DEPLOYMENT_PAUSED) plus chronic rate-limiting — see
+  anuraghazra/github-readme-stats#4737. Replaced with stats-static.svg: a
+  one-time render built from real api.github.com data, committed directly
+  to this repo. No workflow, no token, no live service dependency — it just
+  won't update itself. Regenerate manually (or ask Claude) every so often
+  if the numbers drift.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a-nayem&show_icons=true&hide_border=true&bg_color=050810&title_color=00C8FF&icon_color=00C8FF&text_color=AAB8D0&ring_color=00C8FF" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=a-nayem&hide_border=true&background=050810&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=AAB8D0&currStreakNum=AAB8D0&sideNums=AAB8D0&dates=AAB8D0" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-nayem&layout=compact&hide_border=true&bg_color=050810&title_color=00C8FF&text_color=AAB8D0" width="48%" />
+<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/stats-static.svg" width="100%" />
 
 </div>
 
@@ -221,20 +231,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&bg_color=050810&color=00C8FF&line=00C8FF&point=AAB8D0&area=true&area_color=00C8FF&hide_border=true&custom_title=Commit%20Activity)
-
-</div>
-
-## `$ ./summary.sh --cards`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=a-nayem&theme=algolia" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=a-nayem&theme=algolia" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=a-nayem&theme=algolia" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=a-nayem&theme=algolia" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=a-nayem&theme=algolia&utcOffset=6" width="60%" />
 
 </div>
 
