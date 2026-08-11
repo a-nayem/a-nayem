@@ -42,5 +42,5 @@
   <text x="765" y="150" class="stat-label" text-anchor="middle" style="fill:#FF1414; font-size:13px;">Python</text>
   <text x="765" y="170" class="stat-label" text-anchor="middle" style="fill:#FF1414; font-size:13px;">Next.js</text>
 
-  <text x="30" y="205" class="stat-label" style="font-size:10px;">generated once from api.github.com · static, not live</text>
+  <text x="30" y="205" class="stat-label" style="font-size:10px;">snapshot: 2026-08-08 · generated from api.github.com, not live</text>
 </svg>
