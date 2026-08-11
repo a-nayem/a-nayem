@@ -1,0 +1,134 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .termbg { fill: #050101; }
+      .titlebar { fill: #0a0202; }
+      .border { fill: none; stroke: #2a0c0c; stroke-width: 1.5; }
+      .titletext { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #C9A0A0; }
+      .prompt { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #FF1414; font-weight: 700; }
+      .output { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #C9A0A0; }
+    </style>
+  </defs>
+
+  <rect class="termbg" width="900" height="1200" rx="10"/>
+  <rect class="border" x="1" y="1" width="898" height="1198" rx="10"/>
+
+  <path class="titlebar" d="M1,11 Q1,1 11,1 L889,1 Q899,1 899,11 L899,36 L1,36 Z"/>
+  <line x1="1" y1="36" x2="899" y2="36" stroke="#2a0c0c" stroke-width="1"/>
+
+  <circle cx="24" cy="18" r="6" fill="#FF1414"/>
+  <circle cx="44" cy="18" r="6" fill="#8C0303"/>
+  <circle cx="64" cy="18" r="6" fill="#B30F0F"/>
+
+  <text x="450" y="22" text-anchor="middle" class="titletext">elusive@archlinux: ~/life/timeline.log</text>
+
+  <!-- Block 1: 2009-2015 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="70" class="prompt">$ cat 2009-2015.log</text>
+    <text x="50" y="92" class="output">Started school (2009). First laptop 2012 — 3 PSPs, 2 Game Boys through 2014.</text>
+    <text x="50" y="112" class="output">First tablet 2015 (Samsung) — wasn't much good.</text>
+  </g>
+
+  <!-- Block 2: 2016-2017 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="152" class="prompt">$ cat 2016-2017.log</text>
+    <text x="50" y="174" class="output">Huawei MediaPad T7 — the gaming actually starts here.</text>
+    <text x="50" y="194" class="output">Mini Militia, Clash of Clans, Clash Royale, Legacy Wars, PUBG.</text>
+    <text x="50" y="214" class="output">Multiple IDs across every game, managed daily. 8-10 hrs/day.</text>
+  </g>
+
+  <!-- Block 3: 2018 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="4.4s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="254" class="prompt">$ cat 2018.log</text>
+    <text x="50" y="276" class="output">Tablet broke the year PUBG released. Started PUBG on a 2GB phone instead.</text>
+    <text x="50" y="296" class="output">No headphones. Still the strongest assaulter — until the device became the limit.</text>
+  </g>
+
+  <!-- Block 4: 2019 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="6.6s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="336" class="prompt">$ cat 2019.log</text>
+    <text x="50" y="358" class="output">Heartbreak. Lost the edge for a while — then grinded it back harder.</text>
+    <text x="50" y="378" class="output">Belief carried through: no self-imposed limits.</text>
+  </g>
+
+  <!-- Block 5: 2020 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="8.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="418" class="prompt">$ cat 2020.log</text>
+    <text x="50" y="440" class="output">Lucky Patcher. Forced a 90fps unlock — first real look at code underneath.</text>
+    <text x="50" y="460" class="output">Unofficial modding begins. Redmi Note 9 Pro.</text>
+  </g>
+
+  <!-- Block 6: 2021-2022 gaming peak -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="10.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="500" class="prompt">$ cat 2021-2022.log</text>
+    <text x="50" y="522" class="output">Gaming peaks again — 14-16 hrs/day through COVID.</text>
+    <text x="50" y="542" class="output">Still messing with pre-written code. Not writing my own yet.</text>
+  </g>
+
+  <!-- Block 7: 2022 shift -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="12.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="582" class="prompt">$ cat 2022.log</text>
+    <text x="50" y="604" class="output">The shift: writing and debugging my own code. Debugging others' code too.</text>
+    <text x="50" y="624" class="output">Everything before this was pre-written code, patched and modded.</text>
+  </g>
+
+  <!-- Block 8: 2022 — Python roadmap -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="14.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="664" class="prompt">$ cat roadmap/python.log — 2022</text>
+    <text x="50" y="686" class="output">Started with roadmap.sh — Python first. Self-taught, docs and YouTube.</text>
+    <text x="50" y="706" class="output">Fundamentals, syntax, core logic — the actual starting point.</text>
+  </g>
+
+  <!-- Block 9: 2023 — Frontend + Backend roadmap -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="16.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="746" class="prompt">$ cat roadmap/fullstack.log — 2023</text>
+    <text x="50" y="768" class="output">Frontend roadmap — HTML/CSS/JS into React and Next.js.</text>
+    <text x="50" y="788" class="output">Backend roadmap in parallel — APIs, databases, server logic.</text>
+  </g>
+
+  <!-- Block 10: 2024 — DevOps + AI Engineer roadmap -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="18.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="828" class="prompt">$ cat roadmap/devops-ai.log — 2024</text>
+    <text x="50" y="850" class="output">DevOps roadmap — Docker, deployment pipelines.</text>
+    <text x="50" y="870" class="output">AI Engineer roadmap — LLM APIs, agents, RAG. Multi-agent systems begin.</text>
+  </g>
+
+  <!-- Block 11: 2025-now — Cybersecurity roadmap -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="20.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="910" class="prompt">$ cat roadmap/cybersecurity.log — 2025-now</text>
+    <text x="50" y="932" class="output">Cybersecurity roadmap — Kali, offensive security tooling.</text>
+    <text x="50" y="952" class="output">Active, self-directed specialization. Currently in progress.</text>
+  </g>
+
+  <!-- Block 12: now -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="22.5s" dur="0.6s" fill="freeze"/>
+    <text x="30" y="992" class="prompt">$ cat now.log</text>
+    <text x="50" y="1014" class="output">PUBG now — weekends and breaks only, pure recreation.</text>
+    <text x="50" y="1034" class="output">Years of playing it built something more than a habit. It stays personal.</text>
+    <text x="50" y="1054" class="output">Founder @ Trisien Automence. Building autonomous AI systems and</text>
+    <text x="50" y="1074" class="output">offensive security tooling. Still no self-imposed limits.</text>
+    <text x="50" y="1094" class="output">Current focus: ELUSIVE — a private, local agentic system, mine alone.</text>
+    <text x="50" y="1114" class="output">Every project here ships continuously. Feature comes to mind, it ships.</text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="24.5s" dur="0.3s" fill="freeze"/>
+    <text x="30" y="1154" class="prompt">$</text>
+    <rect x="45" y="1142" width="9" height="15" fill="#FF1414">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
