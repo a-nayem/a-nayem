@@ -32,11 +32,19 @@ AI systems architect and cybersecurity engineer directing prompt-engineered buil
 ```bash
 $ whoami --full
 ROLE      AI Systems Architect / Cybersecurity Engineer
-EXP       Founder @ Trisien Automence (2025-Present) / CS Undergrad (2024-Present)
+EXP       Founder @ Trisien Automence (2025-Present)
 DOMAIN    Autonomous AI, Multi-Agent Systems, Applied Offensive Security
 STACK     Python, TypeScript, FastAPI, Docker, n8n, Kali Linux
 OPEN_TO   Freelance contracts + Full-time roles
 ```
+
+## `$ cat ./life/timeline.log`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/journey-terminal.svg" width="100%" />
+
+</div>
 
 ## `$ ls ./stack`
 
