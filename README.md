@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF1414&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+Architect+%2F%2F+Cybersecurity+Engineer;Founder+%40+Trisien+Automence;Multi-Agent+Orchestration+%2F%2F+Applied+Offensive+Security;Currently+shipping+ELUSIVE+v2;I+build+systems+that+think+for+themselves.)](https://github.com/a-nayem)
 
-![Degree](https://img.shields.io/badge/B.Sc._CSE-BRAC_University-050101?style=flat-square&labelColor=050101&color=FF1414)
+![Focus](https://img.shields.io/badge/Focus-Autonomous_AI_%26_Offensive_Security-050101?style=flat-square&labelColor=050101&color=FF1414)
 ![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=FF1414)
 ![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=FF1414)
 
@@ -159,13 +159,25 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </details>
 
+<details>
+<summary><strong>Oblivion</strong> — self-built Obsidian clone</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Next.js, React |
+| **Scale** | Markdown-based notes with a graph view for linked-note visualization |
+| **Impact** | Live web app, self-hosted, own note-taking system with zero dependency on Obsidian |
+
+[Live →](https://oblivion-nu.vercel.app/login)
+
+</details>
+
 ## `$ git log --author=a-nayem`
 
 **Founder & AI Systems Architect** — Trisien Automence · 2025 - Present
 
-- Architected a provider-agnostic AI orchestration layer normalizing request and response formats across 6 LLM providers, zero third-party SDK dependencies
 - Shipped a 5-agent autonomous system across 3,595 lines of production TypeScript, verified with a zero-error build
-- Scaled one codebase to 4 international market verticals (Canada, Germany, Australia, Netherlands) with zero duplicated logic via config modules switched by a single environment variable
 - Eliminated recurring cloud cost and server-side data exposure by routing every agent call client-side under the user's own API key
 - Operate an AI-native development pipeline, directing prompt-engineered builds through architecture, implementation, and debugging end to end
 
@@ -177,20 +189,10 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 | Achievement | Detail |
 |:---:|:---:|
-| 6 LLM providers unified | Provider-agnostic orchestration layer, zero SDK lock-in |
-| 4 international markets served | Canada, Germany, Australia, Netherlands via config-driven deployment |
 | 342-node knowledge graph shipped | Live 3D visualization inside Trisien Vault |
 | ~90% cut in lead processing time | n8n + Supabase real-time pipeline, sub-500ms sync |
 | ~$200/year in SaaS replaced | Self-hosted CRM stack |
 | 13+ projects shipped, 5+ live | Across agency and personal builds |
-
-</div>
-
-## `$ cat ./education.cfg`
-
-<div align="center">
-
-[![Education](https://img.shields.io/badge/BRAC_UNIVERSITY-B.Sc._Computer_Science_%26_Engineering_%7C_2024--Present-FF1414?style=for-the-badge&logo=googlescholar&logoColor=050101&labelColor=050101)](https://www.bracu.ac.bd/)
 
 </div>
 
