@@ -252,19 +252,11 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 ## `$ cat ./current_focus.yaml`
 
-```yaml
-learning:
-  - LLM-assisted autonomous penetration testing
-  - AI agent prompt-injection defense (thesis research)
-building:
-  - ELUSIVE v2, local agentic system, 55 tools, multi-provider routing
-  - Trisien Automence platform, config-driven multi-vertical architecture
-exploring:
-  - Interactive, emotion-driven conversational web experiences
-open_to:
-  - Freelance / contract engagements
-  - Full-time AI systems or security-adjacent roles
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/focus-static.svg" width="100%" />
+
+</div>
 
 ## `$ ./connect.sh`
 
