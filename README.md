@@ -217,23 +217,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </div>
 
-## `$ ./trophies.sh --render`
-
-<!--
-  github-profile-trophy.vercel.app failed the same way the earlier stats
-  widget did — shared free instance, unreliable, and its trophy tiers
-  (gold/silver/bronze) are hardcoded, can't be forced into the red/black
-  palette regardless. Replaced with trophy-static.svg: real, countable
-  numbers pulled from this repo and api.github.com. Not live — same
-  regenerate-manually tradeoff as stats-static.svg.
--->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/trophy-static.svg" width="100%" />
-
-</div>
-
 ## `$ ./activity.sh --graph`
 
 <!--
