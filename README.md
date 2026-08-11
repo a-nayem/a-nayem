@@ -77,6 +77,8 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 ## `$ ls ./projects --featured`
 
+*All projects below are actively evolving — features ship whenever they come to mind, not on a fixed release schedule.*
+
 <details open>
 <summary><strong>Trisien OS</strong> — provider-agnostic multi-agent orchestration layer</summary>
 <br>
@@ -130,6 +132,20 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Impact** | Fully client-side, zero backend, zero hosting cost, zero-error build |
 
 [Live →](https://multi-agent-daily.vercel.app) · [GitHub →](https://github.com/a-nayem/multi-agent-daily)
+
+</details>
+
+<details>
+<summary><strong>ELUSIVE</strong> — local agentic system (personal, private)</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Fedora, local LLM runtime, Ollama / Groq / NVIDIA NIM / Gemini / Anthropic |
+| **Scale** | v2, 55 tools, native function calling, three-layer sync with offline queuing |
+| **Impact** | Fully local, multi-provider routing with no single point of vendor lock-in |
+
+*Personal-only — no public deployment or repo. Currently the most active project on this list.*
 
 </details>
 
