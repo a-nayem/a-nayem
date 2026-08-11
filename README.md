@@ -38,14 +38,6 @@ STACK     Python, TypeScript, FastAPI, Docker, n8n, Kali Linux
 OPEN_TO   Freelance contracts + Full-time roles
 ```
 
-## `$ cat ./life/timeline.log`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/journey-terminal.svg" width="100%" />
-
-</div>
-
 ## `$ ls ./stack`
 
 <div align="center">
@@ -269,6 +261,18 @@ OPEN_TO   Freelance contracts + Full-time roles
 <img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/focus-static.svg" width="100%" />
 
 </div>
+
+<details>
+<summary><strong>$ cat ./life/timeline.log</strong> — how this started (click to expand)</summary>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/journey-terminal.svg" width="100%" />
+
+</div>
+
+</details>
 
 ## `$ ./connect.sh`
 
