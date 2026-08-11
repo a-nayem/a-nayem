@@ -1,0 +1,27 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #050101; }
+      .border { fill: none; stroke: #1a0505; stroke-width: 2; }
+      .key { font-family: 'JetBrains Mono', monospace; font-size: 15px; fill: #FF1414; font-weight: 700; }
+      .item { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #C9A0A0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="320" rx="8"/>
+  <rect class="border" x="1" y="1" width="898" height="318" rx="8"/>
+
+  <text x="30" y="40" class="key">learning:</text>
+  <text x="50" y="65" class="item">- LLM-assisted autonomous penetration testing</text>
+  <text x="50" y="88" class="item">- AI agent prompt-injection defense (thesis research)</text>
+
+  <text x="30" y="128" class="key">building:</text>
+  <text x="50" y="153" class="item">- ELUSIVE v2, local agentic system, 55 tools, multi-provider routing</text>
+  <text x="50" y="176" class="item">- Trisien Automence platform, config-driven multi-vertical architecture</text>
+
+  <text x="30" y="216" class="key">exploring:</text>
+  <text x="50" y="241" class="item">- Interactive, emotion-driven conversational web experiences</text>
+
+  <text x="30" y="281" class="key">open_to:</text>
+  <text x="50" y="306" class="item">- Freelance / contract engagements, full-time AI systems or security-adjacent roles</text>
+</svg>
