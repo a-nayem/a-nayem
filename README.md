@@ -72,8 +72,8 @@ OPEN_TO   Freelance contracts + Full-time roles
 | Cybersecurity & Ethical Hacking | 90% | Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, credential and wireless attacks |
 | AI Infrastructure & Agents | 80% | Multi-agent orchestration, provider-agnostic LLM integration, RAG, self-hosted inference |
 | Automation Pipeline Engineering | 70% | n8n, webhook and event-driven design, SSE/WebSocket, Gmail/Calendar/WhatsApp/Twilio APIs |
-| Data Science & ML | 50% | NumPy, Pandas, Scikit-Learn, vector embeddings |
-| Web Development | 40% | Next.js App Router, React, Zustand, Tailwind CSS, Three.js, D3.js |
+| Data Science & ML | 80% | NumPy, Pandas, Scikit-Learn, vector embeddings |
+| Web Development | 70% | Next.js App Router, React, Zustand, Tailwind CSS, Three.js, D3.js |
 
 ## `$ ls ./projects --featured`
 
