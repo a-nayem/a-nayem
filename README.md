@@ -134,18 +134,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>ELUSIVE</strong> — local agentic system</summary>
-<br>
-
-| | |
-|---|---|
-| **Stack** | Fedora, local LLM runtime, Ollama / Groq / NVIDIA NIM / Gemini / Anthropic |
-| **Scale** | v2, 55 tools, native function calling, three-layer sync with offline queuing |
-| **Impact** | Fully local, multi-provider routing with no single point of vendor lock-in |
-
-</details>
-
-<details>
 <summary><strong>Mind-Forge</strong> — offline Android quiz app</summary>
 <br>
 
