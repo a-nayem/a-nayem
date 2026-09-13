@@ -221,23 +221,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </div>
 
-## `$ ./activity.sh --graph`
-
-<!--
-  NOTE: github-readme-activity-graph.vercel.app is a shared, unauthenticated
-  free-tier instance and periodically rate-limits or 500s under load. This is
-  a third-party uptime issue, not a config issue on your end. If it keeps
-  breaking, self-host the fork (Ashutosh00710/github-readme-activity-graph)
-  on your own Vercel project with a GH_TOKEN env var — five-minute deploy,
-  removes the shared-instance throttling entirely.
--->
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-nayem&bg_color=050101&color=FF1414&line=FF1414&point=C9A0A0&area=true&area_color=FF1414&hide_border=true&custom_title=Commit%20Activity)
-
-</div>
-
 ## `$ ./contribution_snake.sh --run`
 
 <!--
