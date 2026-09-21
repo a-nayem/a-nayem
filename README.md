@@ -38,44 +38,20 @@ STACK     Python, TypeScript, FastAPI, Docker, n8n, Kali Linux
 OPEN_TO   Freelance contracts + Full-time roles
 ```
 
-## `$ ls ./stack`
+## `$ ./dual_boot.sh`
+
+*Two boots, one operator. Left is what I build with. Right is what I'm building toward.*
 
 <div align="center">
-
-![Languages](https://skillicons.dev/icons?i=python,js,ts,java,bash,html,css&theme=dark)
-
-![Product](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,figma,vscode,git&theme=dark)
-
-![Infra](https://skillicons.dev/icons?i=docker,linux,postgres,sqlite,supabase,github,nodejs&theme=dark)
-
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/arch-terminal.svg" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/kali-terminal.svg" width="100%" /></td>
+</tr>
+</table>
 </div>
 
-## `$ cat ./specialties.badge`
-
-<div align="center">
-
-![](https://img.shields.io/badge/-Multi--Agent_Orchestration-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-Provider--Agnostic_LLM_Integration-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-RAG_%26_Vector_Search-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-Self--Hosted_Infrastructure-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-Penetration_Testing-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-Network_%26_Credential_Attacks-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-n8n_Automation-050101?style=flat-square&color=FF1414)
-![](https://img.shields.io/badge/-Zero_Cloud_Dependency-050101?style=flat-square&color=FF1414)
-
-</div>
-
-## `$ cat ./expertise.table`
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Cybersecurity & Ethical Hacking | 90% | Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, credential and wireless attacks |
-| AI Infrastructure & Agents | 80% | Multi-agent orchestration, provider-agnostic LLM integration, RAG, self-hosted inference |
-| Automation Pipeline Engineering | 70% | n8n, webhook and event-driven design, SSE/WebSocket, Gmail/Calendar/WhatsApp/Twilio APIs |
-| Data Science & ML | 80% | NumPy, Pandas, Scikit-Learn, vector embeddings |
-| Web Development | 70% | Next.js App Router, React, Zustand, Tailwind CSS, Three.js, D3.js |
-
-## `$ ls ./projects --featured`
+## `$ ls ./projects --verbose`
 
 *All projects below are actively evolving — features ship whenever they come to mind, not on a fixed release schedule.*
 
@@ -177,29 +153,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </details>
 
-## `$ git log --author=a-nayem`
-
-**Founder & AI Systems Architect** — Trisien Automence · 2025 - Present
-
-- Shipped a 5-agent autonomous system across 3,595 lines of production TypeScript, verified with a zero-error build
-- Eliminated recurring cloud cost and server-side data exposure by routing every agent call client-side under the user's own API key
-- Operate an AI-native development pipeline, directing prompt-engineered builds through architecture, implementation, and debugging end to end
-
-`Next.js` `TypeScript` `Multi-Agent Systems` `Docker` `n8n` `Supabase`
-
-## `$ cat ./achievements.log`
-
-<div align="center">
-
-| Achievement | Detail |
-|:---:|:---:|
-| 342-node knowledge graph shipped | Live 3D visualization inside Trisien Vault |
-| ~90% cut in lead processing time | n8n + Supabase real-time pipeline, sub-500ms sync |
-| ~$200/year in SaaS replaced | Self-hosted CRM stack |
-| 13+ projects shipped, 5+ live | Across agency and personal builds |
-
-</div>
-
 ## `$ ./analytics.sh --github`
 
 <!--
@@ -244,18 +197,6 @@ OPEN_TO   Freelance contracts + Full-time roles
 <img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/focus-static.svg" width="100%" />
 
 </div>
-
-<details>
-<summary><strong>$ cat ./life/timeline.log</strong> — how this started (click to expand)</summary>
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/journey-terminal.svg" width="100%" />
-
-</div>
-
-</details>
 
 ## `$ ./connect.sh`
 
