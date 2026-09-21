@@ -45,7 +45,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 <div align="center">
 <table>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/arch-terminal.svg" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/omarchy-terminal.svg" width="100%" /></td>
 <td width="50%"><img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/kali-terminal.svg" width="100%" /></td>
 </tr>
 </table>
