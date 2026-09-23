@@ -1,12 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:050101,100:1a0505&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=FF1414&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=C9A0A0&fontFamily=JetBrains%20Mono)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,50:0a0a0a,100:07150f&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=FF1414&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=C9A0A0&fontFamily=JetBrains%20Mono)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF1414&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+Architect+%2F%2F+Cybersecurity+Engineer;Founder+%40+Trisien+Automence;Multi-Agent+Orchestration+%2F%2F+Applied+Offensive+Security;Currently+shipping+ELUSIVE+v2;I+build+systems+that+think+for+themselves.)](https://github.com/a-nayem)
 
-![Focus](https://img.shields.io/badge/Focus-Autonomous_AI_%26_Offensive_Security-050101?style=flat-square&labelColor=050101&color=FF1414)
+![AI Systems](https://img.shields.io/badge/AI_Systems-Autonomous_%26_Multi--Agent-050101?style=flat-square&labelColor=050101&color=2ee6a8)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-Applied_%26_Self--Directed-050101?style=flat-square&labelColor=050101&color=FF1414)
 ![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=FF1414)
-![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=FF1414)
+![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=2ee6a8)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF1414?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
@@ -213,4 +214,4 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050101,100:1a0505&height=150&section=footer&text=Security%20first.%20Automation%20always.&fontColor=FF1414&fontSize=16&fontAlignY=75&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0505,50:0a0a0a,100:07150f&height=150&section=footer&text=Security%20first.%20Automation%20always.&fontColor=FF1414&fontSize=16&fontAlignY=75&animation=twinkling)
