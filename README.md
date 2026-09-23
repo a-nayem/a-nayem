@@ -1,21 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,50:0a0a0a,100:07150f&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=FF1414&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=C9A0A0&fontFamily=JetBrains%20Mono)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,50:0a0a0a,100:07150f&height=180&section=header&text=A.NAYEM&fontSize=54&fontColor=FF1414&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%2F%2F%20CYBERSECURITY%20ENGINEER&descAlignY=62&descSize=15&descColor=FF1414&fontFamily=JetBrains%20Mono)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF1414&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+Architect+%2F%2F+Cybersecurity+Engineer;Founder+%40+Trisien+Automence;Multi-Agent+Orchestration+%2F%2F+Applied+Offensive+Security;Currently+shipping+ELUSIVE+v2;I+build+systems+that+think+for+themselves.)](https://github.com/a-nayem)
 
 ![AI Systems](https://img.shields.io/badge/AI_Systems-Autonomous_%26_Multi--Agent-050101?style=flat-square&labelColor=050101&color=2ee6a8)
-![Offensive Security](https://img.shields.io/badge/Offensive_Security-Applied_%26_Self--Directed-050101?style=flat-square&labelColor=050101&color=FF1414)
-![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=FF1414)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-Applied_%26_Self--Directed-050101?style=flat-square&labelColor=050101&color=2ee6a8)
+![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=2ee6a8)
 ![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=2ee6a8)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ee6a8?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF1414?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
 [![Email](https://img.shields.io/badge/EMAIL-FF1414?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=for-the-badge&logo=github&logoColor=050101&labelColor=050101)](https://github.com/a-nayem)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=a-nayem&color=FF1414&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=FF1414&labelColor=050101&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=2ee6a8&labelColor=050101&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/a-nayem?style=flat-square&color=FF1414&labelColor=050101&label=STARS)
 
 </div>
@@ -66,7 +66,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 6 LLM providers unified, 5 specialist agents, 3,595 lines of production TypeScript, zero-error build |
 | **Impact** | Config-driven deployment across 4 international markets (Canada, Germany, Australia, Netherlands) with zero duplicated logic, single environment-variable market switch |
 
-[Live →](https://trisien-automence.vercel.app)
+[![Live](https://img.shields.io/badge/LIVE-2ee6a8?style=flat-square&labelColor=050101)](https://trisien-automence.vercel.app)
 
 </details>
 
@@ -80,7 +80,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 4-agent system (Analyst, Negotiator, Researcher, Communicator), 342-node 3D knowledge graph |
 | **Impact** | Self-hosted vector memory with zero per-query cloud cost, live agent metrics dashboard |
 
-[Live →](https://trisien-vault.vercel.app)
+[![Live](https://img.shields.io/badge/LIVE-2ee6a8?style=flat-square&labelColor=050101)](https://trisien-vault.vercel.app)
 
 </details>
 
@@ -94,7 +94,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 4-stage Kanban pipeline, AI lead scoring, multi-market support (CA, DE, AU, NL) |
 | **Impact** | Replaces ~$200/year in SaaS spend, cut lead processing time by ~90%, sub-500ms real-time sync |
 
-[Live →](https://trisien-crm.vercel.app)
+[![Demo](https://img.shields.io/badge/DEMO-2ee6a8?style=flat-square&labelColor=050101)](https://trisien-crm.vercel.app)
 
 </details>
 
@@ -108,7 +108,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 5 agent roles (Researcher, Summarizer, Connector, Digest, Custom), 10 free-tier models unified, 1,645 lines of verified TypeScript |
 | **Impact** | Fully client-side, zero backend, zero hosting cost, zero-error build |
 
-[Live →](https://multi-agent-daily.vercel.app) · [GitHub →](https://github.com/a-nayem/multi-agent-daily)
+[![Demo](https://img.shields.io/badge/DEMO-2ee6a8?style=flat-square&labelColor=050101)](https://multi-agent-daily.vercel.app) [![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=flat-square&labelColor=050101)](https://github.com/a-nayem/multi-agent-daily)
 
 </details>
 
@@ -136,7 +136,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 6 domains, 400 questions each across 4 difficulty tiers, XP and level system |
 | **Impact** | Fully offline, 30-minute daily lock to enforce intentional practice |
 
-[GitHub →](https://github.com/a-nayem/Mind-Forge)
+[![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=flat-square&labelColor=050101)](https://github.com/a-nayem/Mind-Forge)
 
 </details>
 
@@ -150,7 +150,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | Markdown-based notes with a graph view for linked-note visualization |
 | **Impact** | Live web app, self-hosted, own note-taking system with zero dependency on Obsidian |
 
-[Live →](https://oblivion-nu.vercel.app/login)
+[![Live](https://img.shields.io/badge/LIVE-2ee6a8?style=flat-square&labelColor=050101)](https://oblivion-nu.vercel.app/login)
 
 </details>
 
@@ -169,7 +169,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=a-nayem&hide_border=true&background=050101&ring=FF1414&fire=FF1414&currStreakLabel=FF1414&sideLabels=C9A0A0&currStreakNum=C9A0A0&sideNums=C9A0A0&dates=C9A0A0" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=a-nayem&hide_border=true&background=050101&ring=2ee6a8&fire=2ee6a8&currStreakLabel=2ee6a8&currStreakNum=2ee6a8&sideLabels=2ee6a8&sideNums=2ee6a8&dates=1f9e73" width="48%" />
 
 <img src="https://raw.githubusercontent.com/a-nayem/a-nayem/main/stats-static.svg" width="100%" />
 
@@ -203,12 +203,12 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
-[![Trisien Automence](https://img.shields.io/badge/TRISIEN_AUTOMENCE-FF1414?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://trisien-automence.vercel.app)
-[![Book a Call](https://img.shields.io/badge/BOOK_A_CALL-FF1414?style=for-the-badge&logo=googlecalendar&logoColor=050101&labelColor=050101)](https://cal.com/alifnayem-j98vjt)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF1414?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF1414?style=for-the-badge&logo=instagram&logoColor=050101&labelColor=050101)](https://instagram.com/_a.nayem_)
-[![Email](https://img.shields.io/badge/EMAIL-FF1414?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ee6a8?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![Trisien Automence](https://img.shields.io/badge/TRISIEN_AUTOMENCE-2ee6a8?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://trisien-automence.vercel.app)
+[![Book a Call](https://img.shields.io/badge/BOOK_A_CALL-2ee6a8?style=for-the-badge&logo=googlecalendar&logoColor=050101&labelColor=050101)](https://cal.com/alifnayem-j98vjt)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2ee6a8?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-2ee6a8?style=for-the-badge&logo=instagram&logoColor=050101&labelColor=050101)](https://instagram.com/_a.nayem_)
+[![Email](https://img.shields.io/badge/EMAIL-2ee6a8?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
 
 *"I don't just build tools, I build systems that think for themselves."*
 
