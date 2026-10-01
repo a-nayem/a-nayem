@@ -171,6 +171,13 @@ flowchart LR
     ADP --> P3["Gemini"]
     ADP --> P4["xAI"]
     ADP --> P5["NVIDIA NIM"]
+    SP["#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;"]
+    P1 ~~~ SP
+    P2 ~~~ SP
+    P3 ~~~ SP
+    P4 ~~~ SP
+    P5 ~~~ SP
+    style SP fill:none,stroke:none
 ```
 
 **Trisien Vault** - self-hosted agents with local inference and vector memory.
@@ -182,6 +189,10 @@ flowchart LR
     AGT --> LLM["Self-hosted Deepseek-R1"]
     AGT --> VDB[("Qdrant vector memory")]
     API --> MET["Live agent metrics"]
+    SP["#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;"]
+    LLM ~~~ SP
+    VDB ~~~ SP
+    style SP fill:none,stroke:none
 ```
 
 ## `$ ls ./packages`
