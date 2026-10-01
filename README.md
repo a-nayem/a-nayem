@@ -54,10 +54,10 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 ## `$ ls ./projects --verbose`
 
-*All projects below are actively evolving — features ship whenever they come to mind, not on a fixed release schedule.*
+*All projects below are actively evolving - features ship whenever they come to mind, not on a fixed release schedule.*
 
 <details open>
-<summary><strong>Trisien OS</strong> — provider-agnostic multi-agent orchestration layer</summary>
+<summary><strong>Trisien OS</strong> - provider-agnostic multi-agent orchestration layer</summary>
 <br>
 
 | | |
@@ -71,7 +71,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>Trisien Vault</strong> — self-hosted agentic second brain</summary>
+<summary><strong>Trisien Vault</strong> - self-hosted agentic second brain</summary>
 <br>
 
 | | |
@@ -85,7 +85,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>Trisien CRM</strong> — self-hosted agentic CRM</summary>
+<summary><strong>Trisien CRM</strong> - self-hosted agentic CRM</summary>
 <br>
 
 | | |
@@ -99,7 +99,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>Multiagent-OS (SecondBrain)</strong> — client-side AI knowledge system</summary>
+<summary><strong>Multiagent-OS (SecondBrain)</strong> - client-side AI knowledge system</summary>
 <br>
 
 | | |
@@ -108,12 +108,12 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | 5 agent roles (Researcher, Summarizer, Connector, Digest, Custom), 10 free-tier models unified, 1,645 lines of verified TypeScript |
 | **Impact** | Fully client-side, zero backend, zero hosting cost, zero-error build |
 
-[![Demo](https://img.shields.io/badge/DEMO-1f9e73?style=flat-square&labelColor=050101)](https://multi-agent-daily.vercel.app) [![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=flat-square&labelColor=050101)](https://github.com/a-nayem/multi-agent-daily)
+[![Demo](https://img.shields.io/badge/DEMO-1f9e73?style=flat-square&labelColor=050101)](https://multi-agent-daily.vercel.app) [![GitHub](https://img.shields.io/badge/GITHUB-FF1414?style=flat-square&labelColor=050101)](https://github.com/a-nayem/multi-agent-daily) [![CI](https://github.com/a-nayem/multi-agent-daily/actions/workflows/ci.yml/badge.svg)](https://github.com/a-nayem/multi-agent-daily/actions/workflows/ci.yml)
 
 </details>
 
 <details>
-<summary><strong>ELUSIVE</strong> — local agentic system (personal, private)</summary>
+<summary><strong>ELUSIVE</strong> - local agentic system (personal, private)</summary>
 <br>
 
 | | |
@@ -122,12 +122,12 @@ OPEN_TO   Freelance contracts + Full-time roles
 | **Scale** | v2, 55 tools, native function calling, three-layer sync with offline queuing |
 | **Impact** | Fully local, multi-provider routing with no single point of vendor lock-in |
 
-*Personal-only — no public deployment or repo. Currently the most active project on this list.*
+*Personal-only - no public deployment or repo. Currently the most active project on this list.*
 
 </details>
 
 <details>
-<summary><strong>Mind-Forge</strong> — offline Android quiz app</summary>
+<summary><strong>Mind-Forge</strong> - offline Android quiz app</summary>
 <br>
 
 | | |
@@ -141,7 +141,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>Oblivion</strong> — self-built Obsidian clone</summary>
+<summary><strong>Oblivion</strong> - self-built Obsidian clone</summary>
 <br>
 
 | | |
@@ -154,15 +154,56 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </details>
 
+## `$ cat ./architecture.md`
+
+*High-level data flow for the two core systems.*
+
+**Trisien OS** - one orchestrator, many providers, market behavior set by config.
+
+```mermaid
+flowchart LR
+    UI["Next.js 14 UI + Zustand"] --> ORC["Orchestrator"]
+    CFG[("Market config: env var switch")] --> ORC
+    ORC --> AGT["5 specialist agents"]
+    AGT --> ADP["Provider adapter layer"]
+    ADP --> P1["OpenAI"]
+    ADP --> P2["Anthropic"]
+    ADP --> P3["Gemini"]
+    ADP --> P4["xAI"]
+    ADP --> P5["NVIDIA NIM"]
+```
+
+**Trisien Vault** - self-hosted agents with local inference and vector memory.
+
+```mermaid
+flowchart LR
+    DASH["Canvas 3D dashboard"] --> API["FastAPI + asyncio"]
+    API --> AGT["Analyst / Negotiator / Researcher / Communicator"]
+    AGT --> LLM["Self-hosted Deepseek-R1"]
+    AGT --> VDB[("Qdrant vector memory")]
+    API --> MET["Live agent metrics"]
+```
+
+## `$ ls ./packages`
+
+*Repeated logic from the projects above, being pulled out into standalone packages and templates.*
+
+| Component | Source | Purpose | Status |
+|---|---|---|---|
+| `llm-provider-adapter` | Trisien OS | Single interface across OpenAI, Anthropic, Gemini, xAI and NIM | Planned |
+| `market-config` | Trisien OS / CRM | Env-var market switch with zero duplicated logic | Planned |
+| `n8n-templates` | Trisien CRM | Importable lead scoring and pipeline workflows | Planned |
+| `webhook-handlers` | Trisien CRM | Validated event routing for automation pipelines | Planned |
+
 ## `$ ./analytics.sh --github`
 
 <!--
   Stats + top-langs previously used github-readme-stats.vercel.app, whose
   shared public instance has an open, unresolved outage (503
-  DEPLOYMENT_PAUSED) plus chronic rate-limiting — see
+  DEPLOYMENT_PAUSED) plus chronic rate-limiting - see
   anuraghazra/github-readme-stats#4737. Replaced with stats-static.svg: a
   one-time render built from real api.github.com data, committed directly
-  to this repo. No workflow, no token, no live service dependency — it just
+  to this repo. No workflow, no token, no live service dependency - it just
   won't update itself. Regenerate manually (or ask Claude) every so often
   if the numbers drift.
 -->
@@ -181,7 +222,7 @@ OPEN_TO   Freelance contracts + Full-time roles
   REQUIRES: .github/workflows/snake.yml in this repo (a-nayem/a-nayem),
   which generates the "output" branch this SVG is pulled from. Without that
   workflow having run at least once, this image is a permanent 404. See
-  snake.yml provided alongside this README — commit it, run it once manually
+  snake.yml provided alongside this README - commit it, run it once manually
   via Actions > workflow_dispatch, confirm the "output" branch appears.
 -->
 
