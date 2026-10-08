@@ -9,7 +9,7 @@
 ![Location](https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-050101?style=flat-square&labelColor=050101&color=1f9e73)
 ![Status](https://img.shields.io/badge/Status-Building-050101?style=flat-square&labelColor=050101&color=1f9e73)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1f9e73?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1f9e73?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://a-nayem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1f9e73?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
 [![Email](https://img.shields.io/badge/EMAIL-1f9e73?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-1f9e73?style=for-the-badge&logo=github&logoColor=050101&labelColor=050101)](https://github.com/a-nayem)
@@ -36,6 +36,7 @@ ROLE      AI Systems Architect / Cybersecurity Engineer
 EXP       Founder @ Trisien Automence (2025-Present)
 DOMAIN    Autonomous AI, Multi-Agent Systems, Applied Offensive Security
 STACK     Python, TypeScript, FastAPI, Docker, n8n, Kali Linux
+CERT      CDA (Coursera, 2023)
 OPEN_TO   Freelance contracts + Full-time roles
 ```
 
@@ -55,6 +56,34 @@ OPEN_TO   Freelance contracts + Full-time roles
 ## `$ ls ./projects --verbose`
 
 *All projects below are actively evolving - features ship whenever they come to mind, not on a fixed release schedule.*
+
+<details open>
+<summary><strong>Portfolio</strong> - sim-racing HUD personal site</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Next.js 15, React 19, TypeScript, Tailwind 4, three.js, Lenis |
+| **Scale** | 6 pages as 6 gears, 8 projects, a wireframe reactor core that separates into 4 skill layers, a scripted ELUSIVE terminal with Arch style commands |
+| **Impact** | Hand built with no UI kit, black and red HUD design that shows the work instead of describing it |
+
+[![Live](https://img.shields.io/badge/LIVE-1f9e73?style=flat-square&labelColor=050101)](https://a-nayem.vercel.app)
+
+</details>
+
+<details>
+<summary><strong>Trisien Automence Agency Site</strong> - public face of the agency</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Next.js, TypeScript, Canvas 2D, Tailwind, Vercel |
+| **Scale** | OrbitalMesh hero written from scratch on Canvas 2D, 6 agent cards orbiting a gyroscope ring sphere |
+| **Impact** | Copy tailored to Canada, Germany, Australia and the Netherlands, built to earn trust in under 10 seconds |
+
+[![Live](https://img.shields.io/badge/LIVE-1f9e73?style=flat-square&labelColor=050101)](https://trisien-automence.vercel.app)
+
+</details>
 
 <details open>
 <summary><strong>Trisien OS</strong> - provider-agnostic multi-agent orchestration layer</summary>
@@ -127,7 +156,7 @@ OPEN_TO   Freelance contracts + Full-time roles
 </details>
 
 <details>
-<summary><strong>Mind-Forge</strong> - offline Android quiz app</summary>
+<summary><strong>Quizzen</strong> (formerly Mind-Forge) - offline Android quiz app</summary>
 <br>
 
 | | |
@@ -154,6 +183,20 @@ OPEN_TO   Freelance contracts + Full-time roles
 
 </details>
 
+<details>
+<summary><strong>NFC Cards</strong> - three small web experiences delivered as physical cards</summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Next.js, TypeScript, NFC, Vercel |
+| **Scale** | Elusive: Story of Safety (24 feelings, each tied to a story, a mood and a letter), Sketch the Air Muse (an AI muse that turns a mood and a scene into a drawing idea), Mood Dice (a roll that gives a small positive action for the day) |
+| **Impact** | Each one is tapped in from an NFC card with a custom sticker, so the experience lives outside the screen |
+
+[![Story of Safety](https://img.shields.io/badge/STORY OF SAFETY-1f9e73?style=flat-square&labelColor=050101)](https://elusive-story-of-safety.vercel.app) [![Air Muse](https://img.shields.io/badge/AIR MUSE-1f9e73?style=flat-square&labelColor=050101)](https://sketch-the-air.vercel.app) [![Mood Dice](https://img.shields.io/badge/MOOD DICE-1f9e73?style=flat-square&labelColor=050101)](https://mood-dice-rouge.vercel.app)
+
+</details>
+
 ## `$ cat ./architecture.md`
 
 *High-level data flow for the two core systems.*
@@ -171,13 +214,6 @@ flowchart LR
     ADP --> P3["Gemini"]
     ADP --> P4["xAI"]
     ADP --> P5["NVIDIA NIM"]
-    SP["#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;"]
-    P1 ~~~ SP
-    P2 ~~~ SP
-    P3 ~~~ SP
-    P4 ~~~ SP
-    P5 ~~~ SP
-    style SP fill:none,stroke:none
 ```
 
 **Trisien Vault** - self-hosted agents with local inference and vector memory.
@@ -189,10 +225,6 @@ flowchart LR
     AGT --> LLM["Self-hosted Deepseek-R1"]
     AGT --> VDB[("Qdrant vector memory")]
     API --> MET["Live agent metrics"]
-    SP["#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;#160;"]
-    LLM ~~~ SP
-    VDB ~~~ SP
-    style SP fill:none,stroke:none
 ```
 
 ## `$ ls ./packages`
@@ -255,7 +287,7 @@ flowchart LR
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1f9e73?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://alifnayem.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1f9e73?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://a-nayem.vercel.app)
 [![Trisien Automence](https://img.shields.io/badge/TRISIEN_AUTOMENCE-1f9e73?style=for-the-badge&logo=vercel&logoColor=050101&labelColor=050101)](https://trisien-automence.vercel.app)
 [![Book a Call](https://img.shields.io/badge/BOOK_A_CALL-1f9e73?style=for-the-badge&logo=googlecalendar&logoColor=050101&labelColor=050101)](https://cal.com/alifnayem-j98vjt)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1f9e73?style=for-the-badge&logo=linkedin&logoColor=050101&labelColor=050101)](https://linkedin.com/in/alifnayem-trisienautomence)
