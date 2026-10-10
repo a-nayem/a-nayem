@@ -14,7 +14,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-1f9e73?style=for-the-badge&logo=gmail&logoColor=050101&labelColor=050101)](mailto:alifnayem39@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-1f9e73?style=for-the-badge&logo=github&logoColor=050101&labelColor=050101)](https://github.com/a-nayem)
 
-![Profile Views](https://komarev.com/ghpvc/?username=a-nayem&color=1f9e73&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=1f9e73&labelColor=050101&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/a-nayem?style=flat-square&color=1f9e73&labelColor=050101&label=STARS)
 
