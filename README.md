@@ -9,7 +9,7 @@
 <a href="https://cal.com/alifnayem-j98vjt"><img src="assets/pill-call.svg" alt="Book a call" height="36" /></a>
 <a href="https://a-nayem.vercel.app"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="36" /></a>
 <a href="https://trisien-automence.vercel.app"><img src="assets/pill-agency.svg" alt="Trisien Automence" height="36" /></a>
-<a href="https://linkedin.com/in/alifnayem"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="36" /></a>
+<a href="https://linkedin.com/in/cyber-a-n"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="36" /></a>
 <a href="mailto:alifnayem39@gmail.com"><img src="assets/pill-email.svg" alt="Email" height="36" /></a>
 
 ![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=22e58b&labelColor=050807&label=FOLLOWERS)
@@ -237,7 +237,7 @@ I am an AI systems architect and cybersecurity engineer. I direct prompt-enginee
 <a href="https://cal.com/alifnayem-j98vjt"><img src="assets/pill-call.svg" alt="Book a call" height="36" /></a>
 <a href="https://a-nayem.vercel.app"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="36" /></a>
 <a href="https://trisien-automence.vercel.app"><img src="assets/pill-agency.svg" alt="Trisien Automence" height="36" /></a>
-<a href="https://linkedin.com/in/alifnayem-trisienautomence"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="36" /></a>
+<a href="https://linkedin.com/in/cyber-a-n"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="36" /></a>
 <a href="https://instagram.com/cyber_a.n_"><img src="assets/pill-instagram.svg" alt="Instagram" height="36" /></a>
 <a href="mailto:alifnayem39@gmail.com"><img src="assets/pill-email.svg" alt="Email" height="36" /></a>
 
