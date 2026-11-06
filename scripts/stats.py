@@ -13,7 +13,7 @@ QUERY = """
 query($login: String!) {
   user(login: $login) {
     followers { totalCount }
-    repositories(first: 100, ownerAffiliation: OWNER, privacy: PUBLIC, isFork: false) {
+    repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false) {
       totalCount
       nodes { stargazerCount primaryLanguage { name } }
     }
@@ -32,7 +32,13 @@ def fetch():
         data=json.dumps({"query": QUERY, "variables": {"login": USER}}).encode(),
         headers={"Authorization": f"bearer {os.environ['GH_TOKEN']}", "Content-Type": "application/json"},
     )
-    u = json.load(urllib.request.urlopen(req, timeout=30))["data"]["user"]
+    try:
+        payload = json.load(urllib.request.urlopen(req, timeout=30))
+    except urllib.error.HTTPError as e:
+        sys.exit(f"GitHub API HTTP {e.code}: {e.read().decode(errors='replace')}")
+    if payload.get("errors") or not (payload.get("data") or {}).get("user"):
+        sys.exit(f"GraphQL error: {json.dumps(payload.get('errors') or payload)}")
+    u = payload["data"]["user"]
     langs = {}
     for n in u["repositories"]["nodes"]:
         if n["primaryLanguage"]:
