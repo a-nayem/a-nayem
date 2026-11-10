@@ -15,7 +15,7 @@
 ![Followers](https://img.shields.io/github/followers/a-nayem?style=flat-square&color=22e58b&labelColor=050807&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/a-nayem?style=flat-square&color=38bdf8&labelColor=050807&label=STARS)
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-22e58b?style=flat-square&labelColor=050807)
-![Location](https://img.shields.io/badge/DHAKA-BANGLADESH-38bdf8?style=flat-square&labelColor=050807)
+![Location](https://img.shields.io/badge/WORKING-ONLINE-38bdf8?style=flat-square&labelColor=050807)
 
 </div>
 
@@ -74,64 +74,26 @@ I am an AI systems architect and cybersecurity engineer. I direct prompt-enginee
 <summary><strong>More projects</strong> - Web UI, LLM Lab, Multiagent-OS, Quizzen, Oblivion and NFC cards</summary>
 <br>
 
-**Trisien Web UI** - client dashboard (Spectre Flow)
+<div align="center">
+<table>
+<tr>
+<td width="50%"><a href="https://trisien-web-ui.vercel.app"><img src="assets/card-webui.svg" alt="Trisien Web UI" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/a-nayem/llm-lab"><img src="assets/card-llmlab.svg" alt="LLM Lab" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://multi-agent-daily.vercel.app"><img src="assets/card-multiagent.svg" alt="Multiagent-OS" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/a-nayem/Mind-Forge"><img src="assets/card-quizzen.svg" alt="Quizzen" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://oblivion-nu.vercel.app/login"><img src="assets/card-oblivion.svg" alt="Oblivion" width="100%" /></a></td>
+<td width="50%"><a href="https://elusive-story-of-safety.vercel.app"><img src="assets/card-nfc.svg" alt="NFC Cards" width="100%" /></a></td>
+</tr>
+</table>
+</div>
 
-| | |
-|---|---|
-| **Stack** | Next.js 16 App Router, TypeScript, Tailwind CSS v4 |
-| **Scale** | 6 routes: agentic workflows, 3D rotating knowledge graph, run logs, CRM and leads, documents and settings |
-| **Impact** | No external UI library with CSS-variable theming and dark mode through `prefers-color-scheme` |
+**Repos:** [trisien_web-ui](https://github.com/a-nayem/trisien_web-ui) / [llm-lab](https://github.com/a-nayem/llm-lab) / [ml-lab](https://github.com/a-nayem/ml-lab) / [python-core](https://github.com/a-nayem/python-core) / [multi-agent-daily](https://github.com/a-nayem/multi-agent-daily) / [Mind-Forge](https://github.com/a-nayem/Mind-Forge)
 
-[Live](https://trisien-web-ui.vercel.app) / [GitHub](https://github.com/a-nayem/trisien_web-ui)
-
-**LLM Lab** - evals-first LLM engineering practice
-
-| | |
-|---|---|
-| **Scope** | Prompting and tool calling / embeddings and vector search / RAG with reranking / an agent with tools and memory |
-| **Method** | Every change is measured by an eval harness with cost and latency logged from day one |
-
-[llm-lab](https://github.com/a-nayem/llm-lab) / [ml-lab](https://github.com/a-nayem/ml-lab) / [python-core](https://github.com/a-nayem/python-core)
-
-**Multiagent-OS (SecondBrain)** - client-side AI knowledge system
-
-| | |
-|---|---|
-| **Stack** | Next.js, TypeScript, Three.js, Gemini 2.5 Flash / OpenRouter |
-| **Scale** | 5 agent roles, 10 free-tier models unified, 1,645 lines of verified TypeScript |
-| **Impact** | Fully client-side with zero backend and zero hosting cost |
-
-[Demo](https://multi-agent-daily.vercel.app) / [GitHub](https://github.com/a-nayem/multi-agent-daily) / [CI](https://github.com/a-nayem/multi-agent-daily/actions/workflows/ci.yml)
-
-**Quizzen** (formerly Mind-Forge) - offline Android quiz app
-
-| | |
-|---|---|
-| **Stack** | Apache Cordova, JavaScript, Android, LocalStorage |
-| **Scale** | 6 domains with 400 questions each across 4 difficulty tiers plus an XP and level system |
-| **Impact** | Fully offline with a 30-minute daily lock to enforce intentional practice |
-
-[GitHub](https://github.com/a-nayem/Mind-Forge)
-
-**Oblivion** - self-built Obsidian clone
-
-| | |
-|---|---|
-| **Stack** | Next.js, React |
-| **Scale** | Markdown notes with a graph view for linked-note visualization |
-| **Impact** | Live self-hosted web app with zero dependency on Obsidian |
-
-[Live](https://oblivion-nu.vercel.app/login)
-
-**NFC Cards** - three small web experiences delivered as physical cards
-
-| | |
-|---|---|
-| **Stack** | Next.js, TypeScript, NFC, Vercel |
-| **Scale** | Elusive: Story of Safety (24 feelings) / Sketch the Air Muse (mood and scene to drawing idea) / Mood Dice (a small positive action for the day) |
-| **Impact** | Each one is tapped in from an NFC card so the experience lives outside the screen |
-
-[Story of Safety](https://elusive-story-of-safety.vercel.app) / [Air Muse](https://sketch-the-air.vercel.app) / [Mood Dice](https://mood-dice-rouge.vercel.app)
+**NFC experiences:** [Story of Safety](https://elusive-story-of-safety.vercel.app) / [Air Muse](https://sketch-the-air.vercel.app) / [Mood Dice](https://mood-dice-rouge.vercel.app)
 
 </details>
 
